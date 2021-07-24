@@ -1,2 +1,6 @@
 # hello-world
-Sean's First Repository
+
+Hi Humans!
+
+Sean Here.
+I enjoy coffee and the beach.
